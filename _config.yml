@@ -8,13 +8,13 @@ middle_name: blank
 last_name: Wu
 email: chaofengwu2025@u.northwestern.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-I am a fourth-year CS PhD student at Northwestern University(NU) advised by Prof. Annie Liang and Prof. Ben Golub. 
-  # A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
-My research interest is the applications of Computer Science in Economics. I apply data science and machine learning techniques to problems in decision theory and network of economics. I am also interested in model building and evaluation. 
+# I am a fourth-year CS PhD student at Northwestern University(NU) advised by Prof. Annie Liang and Prof. Ben Golub. 
+  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+# My research interest is the applications of Computer Science in Economics. I apply data science and machine learning techniques to problems in decision theory and network of economics. I am also interested in model building and evaluation. 
 
-I got my M.S. degree in CS from University of Chicago(UChicago), advised by Professor Ian Foster and Professor Kyle Chard. Before that, I got my B.S. degree in ECE from Shanghai Jiao Tong University (SJTU).
+# I got my M.S. degree in CS from University of Chicago(UChicago), advised by Professor Ian Foster and Professor Kyle Chard. Before that, I got my B.S. degree in ECE from Shanghai Jiao Tong University (SJTU).
 
-Click [here](https://drive.google.com/file/d/1IRY0MV8hQRpGeEObJIyzKsRN9lgU1OjS/view?usp=drive_link) for my CV.
+# Click [here](https://drive.google.com/file/d/1IRY0MV8hQRpGeEObJIyzKsRN9lgU1OjS/view?usp=drive_link) for my CV.
 
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
