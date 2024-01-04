@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a fourth-year CS PhD student at Northwestern University(NU) advised by Prof. [Annie Liang](https://www.anniehliang.com/) and Prof. [Ben Golub](https://bengolub.net/). 
+I am a Computer Science PhD student at Northwestern University(NU) advised by Prof. [Annie Liang](https://www.anniehliang.com/) and Prof. [Ben Golub](https://bengolub.net/). 
 
 My research interest is the applications of Computer Science in Economics. I apply data science and machine learning techniques to problems in decision theory and network of economics. I am also interested in model building and evaluation. 
 
